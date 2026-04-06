@@ -16,8 +16,6 @@
 
 🌱 Always going deeper on **cloud-native architecture and platform engineering**
 
-🔧 Built a **self-managed 6-node HA K8s cluster on AWS from scratch** — no managed services, every layer owned
-
 💬 Ask me about **Kubernetes internals, Terraform modules, Istio mTLS, or anything cloud** → [open an issue](https://github.com/AbdurRehman924/AbdurRehman924/issues)
 
 ⚡ Fun fact **The first Kubernetes commit was pushed on June 6, 2014 — the same day as the 70th anniversary of D-Day. Coincidence? Probably.**
