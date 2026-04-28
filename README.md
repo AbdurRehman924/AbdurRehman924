@@ -1,36 +1,83 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdurRehman924.AbdurRehman924" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&weight=700&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey+There!+👋;I'm+Khan+AbdurRehman!;DevSecOps+%26+Platform+Engineer+🛡️;Security+as+a+Day-One+Constraint" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=32&weight=700&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Abdur+Rehman+Tariq;Your+infrastructure%2C+secured+and+automated.;Security+enforced+at+every+layer.;Systems+built+for+production." />
 </h1>
 
-<h3 align="center">Building production-grade, secure infrastructure from Pakistan 🇵🇰</h3>
+<h3 align="center">Cloud & DevSecOps Architect · Pakistan 🇵🇰 · Available for remote engagements worldwide</h3>
+
+<br/>
+
+---
 
 <br/>
 
 <div align="center">
 
-🔭 Currently working on **secure software supply chains · Kubernetes platform engineering · multi-cloud infrastructure**
+### The problems I solve
 
-🛡️ Core belief: **Security is a day-one constraint, not a post-deployment checklist**
-
-🔐 Deep in **Cosign keyless signing · SLSA provenance · Kyverno admission control · Falco runtime security**
-
-☁️ Deployed on **AWS · Azure · DigitalOcean** — self-managed clusters, no managed Kubernetes
-
-🌱 Always going deeper on **cloud-native security, eBPF, and supply chain integrity**
-
-💬 Ask me about **Kubernetes internals, Terraform, Istio mTLS, or DevSecOps pipelines** → [open an issue](https://github.com/AbdurRehman924/AbdurRehman924/issues)
-
-⚡ Fun fact: **The first Kubernetes commit was pushed on June 6, 2014 — the 70th anniversary of D-Day. Coincidence? Probably.**
+| The problem | The outcome |
+|---|---|
+| Deployments that break in production | Automated pipelines with security gates at every stage |
+| Secrets committed to repositories | Encrypted at rest, zero plaintext in Git, ever |
+| No proof an artifact wasn't tampered with | Cryptographically signed, traced from commit to running pod |
+| Infrastructure that drifts from its declared state | Self-healing, declarative, always in sync |
+| Security bolted on after deployment | Enforced at admission time — nothing unverified reaches production |
+| Incidents with no visibility | Full-stack observability: metrics, logs, distributed traces |
+| Scaling bottlenecks under load | Elastic, policy-compliant infrastructure provisioned as code |
 
 </div>
 
 <br/>
 
+---
+
+<br/>
+
+<div align="center">
+
+### What I design and deliver
+
+**Cloud Infrastructure** — Multi-cloud platforms across AWS, Azure, and GCP. High-availability architecture with defined RTO/RPO, cost-optimized provisioning, and zero manual steps. Infrastructure declared as code — reproducible, auditable, portable.
+
+**Secure CI/CD Pipelines** — End-to-end delivery systems where security is a gate, not an afterthought. Vulnerability scanning, image signing, provenance attestation, and policy enforcement — all automated before anything reaches production.
+
+**Kubernetes Platforms** — Self-managed clusters built from raw compute with full control over every layer: networking, admission control, service mesh, autoscaling, and observability. No managed control plane abstractions hiding the internals.
+
+**Supply Chain Security** — Cryptographic proof that every artifact running in production was built by the official pipeline, on the official branch, and passed every security gate. Three independent enforcement layers: registry, admission, runtime.
+
+**GitOps & Secret Management** — Declarative, self-healing deployments with ArgoCD. Secrets encrypted before they touch Git — the GitOps model preserved without the security risk.
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### Selected work
+
+| System | What it solves |
+|---|---|
+| [Production-Grade Kubernetes Platform](https://github.com/AbdurRehman924/self-managed-k8s-aws) | Self-managed HA cluster on AWS, Azure, and DigitalOcean — 12 microservices, full observability, service mesh, GitOps |
+| [Secure Software Supply Chain](https://github.com/AbdurRehman924/secure-supply-chain) | Keyless signing, SLSA L2 provenance, SBOM attestation, Kyverno admission enforcement, Falco runtime detection |
+| [Azure DevOps + OPA Policy Pipeline](https://github.com/AbdurRehman924/Portfolio-Devops) | 4 parallel CI/CD pipelines, policy-as-code blocking non-compliant resources before creation |
+| [Multi-Environment GitOps Platform](https://github.com/AbdurRehman924/DevSecOps-Platform) | dev/staging/prod on K3s, Sealed Secrets, ArgoCD auto-sync, zero plaintext credentials in Git |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
   <a href="mailto:pure.art.endeavor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/khan-abdurrehman-883653214/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -40,38 +87,6 @@
   </a>
 </div>
 
-<hr/>
-
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 
-<h4 align="center">Cloud & Infrastructure</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,linux,bash" />
-</div>
-
-<h4 align="center">Security & Observability</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,github,githubactions,ansible,nginx" />
-</div>
-
-<br/>
-
-<div align="center">
-
-| Domain | Tools |
-|---|---|
-| Container Security | Cosign · Kyverno · Falco · Trivy · Grype · Syft |
-| Supply Chain | SLSA L2 · SBOM (CycloneDX) · GHCR digest pinning · Rekor |
-| GitOps | ArgoCD · Kustomize · Helm · Sealed Secrets |
-| Service Mesh | Istio · mTLS · Envoy · cert-manager |
-| Observability | Prometheus · Grafana · Loki · Jaeger · Promtail |
-| IaC | Terraform · kubeadm · KIND · Ansible |
-| Policy | OPA · Kyverno PSS · NetworkPolicy |
-
-</div>
-
-<br/>
-<hr/>
-
-<h3 align="center">Thanks for stopping by — go build something that matters 🔥</h3>
+<h3 align="center">Open to collaborating on cloud infrastructure and DevSecOps engagements.</h3>
