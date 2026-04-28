@@ -58,14 +58,19 @@
 
 <div align="center">
 
-### Selected work
+### A few things about me
 
-| System | What it solves |
-|---|---|
-| [Production-Grade Kubernetes Platform](https://github.com/AbdurRehman924/self-managed-k8s-aws) | Self-managed HA cluster on AWS, Azure, and DigitalOcean — 12 microservices, full observability, service mesh, GitOps |
-| [Secure Software Supply Chain](https://github.com/AbdurRehman924/secure-supply-chain) | Keyless signing, SLSA L2 provenance, SBOM attestation, Kyverno admission enforcement, Falco runtime detection |
-| [Azure DevOps + OPA Policy Pipeline](https://github.com/AbdurRehman924/Portfolio-Devops) | 4 parallel CI/CD pipelines, policy-as-code blocking non-compliant resources before creation |
-| [Multi-Environment GitOps Platform](https://github.com/AbdurRehman924/DevSecOps-Platform) | dev/staging/prod on K3s, Sealed Secrets, ArgoCD auto-sync, zero plaintext credentials in Git |
+🏗️ I bootstrap Kubernetes clusters from raw compute — no managed control planes, no shortcuts
+
+🔐 I believe security is a day-one constraint, not a post-deployment checklist
+
+🌍 I've deployed the same platform architecture on three different clouds just to prove it's portable
+
+☁️ My idea of a good time is a clean `terraform apply` with zero drift
+
+🕵️ I once spent 3 hours debugging a Kubernetes issue that turned out to be a missing semicolon in a Kyverno policy
+
+⚡ The first Kubernetes commit was pushed on June 6, 2014 — the 70th anniversary of D-Day. Coincidence? Probably.
 
 </div>
 
