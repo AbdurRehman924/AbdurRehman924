@@ -14,39 +14,21 @@
 
 <div align="center">
 
-### The problems I solve
+### What I actually do (and why it matters)
 
-| The problem | The outcome |
+| You have... | I turn it into... |
 |---|---|
-| Deployments that break in production | Automated pipelines with security gates at every stage |
-| Secrets committed to repositories | Encrypted at rest, zero plaintext in Git, ever |
-| No proof an artifact wasn't tampered with | Cryptographically signed, traced from commit to running pod |
-| Infrastructure that drifts from its declared state | Self-healing, declarative, always in sync |
-| Security bolted on after deployment | Enforced at admission time — nothing unverified reaches production |
-| Incidents with no visibility | Full-stack observability: metrics, logs, distributed traces |
-| Scaling bottlenecks under load | Elastic, policy-compliant infrastructure provisioned as code |
+| Deployments that break in production | Automated pipelines that enforce security before anything ships |
+| Secrets sitting in a Git repo | Encrypted at rest — zero plaintext, ever |
+| No idea if your artifact was tampered with | Cryptographic proof from commit to running pod |
+| Infrastructure that drifts the moment you look away | Self-healing, declarative systems that stay in sync |
+| Security reviews happening after deployment | Policy enforcement at admission time — nothing unverified gets in |
+| Production incidents with no visibility | Metrics, logs, and distributed traces across every service |
+| A platform that falls over under load | Elastic, policy-compliant infrastructure provisioned as code |
 
-</div>
+I design and deliver this across **AWS, Azure, and GCP** — self-managed Kubernetes clusters built from raw compute, secure CI/CD pipelines where security is a gate not a checkbox, and GitOps platforms where secrets are encrypted before they touch Git.
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### What I design and deliver
-
-**Cloud Infrastructure** — Multi-cloud platforms across AWS, Azure, and GCP. High-availability architecture with defined RTO/RPO, cost-optimized provisioning, and zero manual steps. Infrastructure declared as code — reproducible, auditable, portable.
-
-**Secure CI/CD Pipelines** — End-to-end delivery systems where security is a gate, not an afterthought. Vulnerability scanning, image signing, provenance attestation, and policy enforcement — all automated before anything reaches production.
-
-**Kubernetes Platforms** — Self-managed clusters built from raw compute with full control over every layer: networking, admission control, service mesh, autoscaling, and observability. No managed control plane abstractions hiding the internals.
-
-**Supply Chain Security** — Cryptographic proof that every artifact running in production was built by the official pipeline, on the official branch, and passed every security gate. Three independent enforcement layers: registry, admission, runtime.
-
-**GitOps & Secret Management** — Declarative, self-healing deployments with ArgoCD. Secrets encrypted before they touch Git — the GitOps model preserved without the security risk.
+No managed control plane abstractions. No security bolted on at the end. No manual steps between commit and production.
 
 </div>
 
