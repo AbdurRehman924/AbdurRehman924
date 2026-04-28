@@ -1,24 +1,28 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdurRehman924.AbdurRehman924" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&weight=700&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+👋;I'm+Khan+AbdurRehman!;Cloud+%26+DevSecOps+Engineer+☁️" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&weight=700&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey+There!+👋;I'm+Khan+AbdurRehman!;DevSecOps+%26+Platform+Engineer+🛡️;Security+as+a+Day-One+Constraint" />
 </h1>
 
-<h3 align="center">Building production-grade infrastructure from Pakistan 🇵🇰</h3>
+<h3 align="center">Building production-grade, secure infrastructure from Pakistan 🇵🇰</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 Currently working with **Kubernetes · Terraform · Istio · ArgoCD**
+🔭 Currently working on **secure software supply chains · Kubernetes platform engineering · multi-cloud infrastructure**
 
-🛡️ Obsessed with **DevSecOps — security as a day-one constraint, not an afterthought**
+🛡️ Core belief: **Security is a day-one constraint, not a post-deployment checklist**
 
-🌱 Always going deeper on **cloud-native architecture and platform engineering**
+🔐 Deep in **Cosign keyless signing · SLSA provenance · Kyverno admission control · Falco runtime security**
 
-💬 Ask me about **Kubernetes internals, Terraform modules, Istio mTLS, or anything cloud** → [open an issue](https://github.com/AbdurRehman924/AbdurRehman924/issues)
+☁️ Deployed on **AWS · Azure · DigitalOcean** — self-managed clusters, no managed Kubernetes
 
-⚡ Fun fact **The first Kubernetes commit was pushed on June 6, 2014 — the same day as the 70th anniversary of D-Day. Coincidence? Probably.**
+🌱 Always going deeper on **cloud-native security, eBPF, and supply chain integrity**
+
+💬 Ask me about **Kubernetes internals, Terraform, Istio mTLS, or DevSecOps pipelines** → [open an issue](https://github.com/AbdurRehman924/AbdurRehman924/issues)
+
+⚡ Fun fact: **The first Kubernetes commit was pushed on June 6, 2014 — the 70th anniversary of D-Day. Coincidence? Probably.**
 
 </div>
 
@@ -40,28 +44,32 @@
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
+
+<h4 align="center">Cloud & Infrastructure</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,linux,bash" />
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,github,githubactions,ansible,nginx,vim,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,vue,nuxt,react,typescript,javascript,mongodb" />
+</div>
+
+<h4 align="center">Security & Observability</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,github,githubactions,ansible,nginx" />
 </div>
 
 <br/>
-<hr/>
 
-<hr/>
+<div align="center">
 
-<h2 align="center">🚀 Selected Projects 🚀</h2>
-<br/>
+| Domain | Tools |
+|---|---|
+| Container Security | Cosign · Kyverno · Falco · Trivy · Grype · Syft |
+| Supply Chain | SLSA L2 · SBOM (CycloneDX) · GHCR digest pinning · Rekor |
+| GitOps | ArgoCD · Kustomize · Helm · Sealed Secrets |
+| Service Mesh | Istio · mTLS · Envoy · cert-manager |
+| Observability | Prometheus · Grafana · Loki · Jaeger · Promtail |
+| IaC | Terraform · kubeadm · KIND · Ansible |
+| Policy | OPA · Kyverno PSS · NetworkPolicy |
 
-| Project | Stack | Links |
-|---|---|---|
-| Self-Managed K8s Platform on AWS | Kubernetes · Terraform · Istio · ArgoCD · Falco | [repo](https://github.com/AbdurRehman924/self-managed-k8s-aws) |
-| Azure DevOps Pipeline + OPA | AKS · Terraform · GitHub Actions · Ansible | [repo](https://github.com/AbdurRehman924/Portfolio-Devops) |
-| GitOps Platform with Sealed Secrets | K3s · ArgoCD · Helm · Kustomize · Trivy | [repo](https://github.com/AbdurRehman924/DevSecOps-Platform) |
-| Find-24 — Service Marketplace | Nuxt 3 · Algolia · Mapbox · TypeScript | [repo](https://github.com/AbdurRehman924/Find-24) · [live](https://find24.io) |
-| Birdie — Shopify SaaS | Nuxt 3 · Firebase · Stripe · vue-i18n | [repo](https://github.com/AbdurRehman924/Birdie) · [live](https://birdiecommerce.com) |
-| 021 — Agency + Strapi CMS | Nuxt 3 · Strapi · Cloudflare Workers | [repo](https://github.com/AbdurRehman924/021-Strapi-CMS) · [live](https://021.uk) |
+</div>
 
 <br/>
 <hr/>
