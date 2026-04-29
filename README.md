@@ -30,6 +30,8 @@ I design and deliver this across **AWS, Azure, and GCP** — self-managed Kubern
 
 No managed control plane abstractions. No security bolted on at the end. No manual steps between commit and production.
 
+*(Yes, I've bootstrapped the same cluster on three clouds just to prove it works everywhere. Yes, it did.)*
+
 </div>
 
 <br/>
