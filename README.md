@@ -14,23 +14,29 @@
 
 <div align="center">
 
-### What I actually do (and why it matters)
+### 🧰 Tools I use to break things (on purpose) and fix them (permanently)
 
-| You have... | I turn it into... |
+<h4>Cloud & Infrastructure</h4>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,linux,bash" />
+
+<h4>Security & Supply Chain</h4>
+
+| Domain | Tools |
 |---|---|
-| Deployments that break in production | Automated pipelines that enforce security before anything ships |
-| Secrets sitting in a Git repo | Encrypted at rest — zero plaintext, ever |
-| No idea if your artifact was tampered with | Cryptographic proof from commit to running pod |
-| Infrastructure that drifts the moment you look away | Self-healing, declarative systems that stay in sync |
-| Security reviews happening after deployment | Policy enforcement at admission time — nothing unverified gets in |
-| Production incidents with no visibility | Metrics, logs, and distributed traces across every service |
-| A platform that falls over under load | Elastic, policy-compliant infrastructure provisioned as code |
+| Container Security | Cosign · Kyverno · Falco · Trivy · Grype · Syft |
+| Supply Chain Integrity | SLSA L2 · SBOM · GHCR digest pinning · Rekor |
+| Policy as Code | OPA · Kyverno PSS · NetworkPolicy |
+| Secret Management | Sealed Secrets · Vault |
 
-I design and deliver this across **AWS, Azure, and GCP** — self-managed Kubernetes clusters built from raw compute, secure CI/CD pipelines where security is a gate not a checkbox, and GitOps platforms where secrets are encrypted before they touch Git.
+<h4>Pipelines, GitOps & Observability</h4>
 
-No managed control plane abstractions. No security bolted on at the end. No manual steps between commit and production.
-
-*(Yes, I've bootstrapped the same cluster on three clouds just to prove it works everywhere. Yes, it did.)*
+| Domain | Tools |
+|---|---|
+| CI/CD | GitHub Actions · ArgoCD · Kustomize · Helm |
+| Service Mesh | Istio · mTLS · Envoy · cert-manager |
+| Observability | Prometheus · Grafana · Loki · Jaeger · Promtail |
+| IaC & Provisioning | Terraform · kubeadm · Ansible · KIND |
 
 </div>
 
@@ -42,7 +48,7 @@ No managed control plane abstractions. No security bolted on at the end. No manu
 
 <div align="center">
 
-### A few things about me
+### 🤔 Things I probably shouldn't admit but will anyway
 
 🏗️ I bootstrap Kubernetes clusters from raw compute — no managed control planes, no shortcuts
 
