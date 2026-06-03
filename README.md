@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdurRehman924.AbdurRehman924" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=32&weight=700&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Abdur+Rehman+Tariq;Your+infrastructure%2C+secured+and+automated.;Security+enforced+at+every+layer.;Systems+built+for+production." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=32&weight=700&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Abdur+Rehman+Tariq;Cloud+%C3%97+Fullstack+Platform+Engineer;Infrastructure+meets+application.;Security+enforced+at+every+layer." />
 </h1>
 
-<h3 align="center">Cloud & DevSecOps Architect · Pakistan 🇵🇰 · Available for remote engagements worldwide</h3>
+<h3 align="center">Cloud & Fullstack Platform Engineer · Pakistan 🇵🇰 · Available for remote engagements worldwide</h3>
 
 <br/>
 
@@ -19,6 +19,10 @@
 <h4>Cloud & Infrastructure</h4>
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,linux,bash" />
+
+<h4>Backend & Frontend</h4>
+
+<img src="https://skillicons.dev/icons?i=django,python,postgres,redis,nuxt,react,svelte,tailwind" />
 
 <h4>Security & Supply Chain</h4>
 
@@ -56,11 +60,13 @@
 
 🌍 I've deployed the same platform architecture on three different clouds just to prove it's portable
 
-☁️ My idea of a good time is a clean `terraform apply` with zero drift
+🩺 I built a clinical CRM with Django + PostGIS that reduced patient no-shows by 40% and CPA by 38%
+
+🤖 The solar PV CRM I built generates 5,000+ AI emails per month — and the team writes zero of them
+
+☀️ My idea of a good time is a clean terraform apply followed by a shipped fullstack feature
 
 🕵️ I once spent 3 hours debugging a Kubernetes issue that turned out to be a missing semicolon in a Kyverno policy
-
-⚡ The first Kubernetes commit was pushed on June 6, 2014 — the 70th anniversary of D-Day. Coincidence? Probably.
 
 </div>
 
@@ -71,17 +77,17 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:pure.art.endeavor@gmail.com">
+  <a href="mailto:artariq.dev.1@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/khan-abdurrehman-883653214/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://abdurrehman924.github.io/Personal-Portfolio" target="_blank">
+  <a href="https://artariq.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-<h3 align="center">Open to collaborating on cloud infrastructure and DevSecOps engagements.</h3>
+<h3 align="center">Building at the intersection of cloud infrastructure and fullstack application development. Open to collaborations.</h3>
