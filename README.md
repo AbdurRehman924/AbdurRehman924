@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdurRehman924.AbdurRehman924" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=artariq-dev.artariq-dev" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=32&weight=700&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Abdur+Rehman+Tariq;Cloud+%C3%97+Fullstack+Platform+Engineer;Infrastructure+meets+application.;Security+enforced+at+every+layer." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=32&weight=700&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Abdur+Rehman+Tariq;Cloud+Native+Full-Stack+Engineer;Infrastructure+meets+application.;Security+enforced+at+every+layer." />
 </h1>
 
-<h3 align="center">Cloud & Fullstack Platform Engineer · Pakistan 🇵🇰 · Available for remote engagements worldwide</h3>
+<h3 align="center">Cloud Native Full-Stack Engineer · Pakistan 🇵🇰 · Available for remote engagements worldwide</h3>
 
 <br/>
 
@@ -23,24 +23,6 @@
 <h4>Backend & Frontend</h4>
 
 <img src="https://skillicons.dev/icons?i=django,python,postgres,redis,nuxt,react,svelte,tailwind" />
-
-<h4>Security & Supply Chain</h4>
-
-| Domain | Tools |
-|---|---|
-| Container Security | Cosign · Kyverno · Falco · Trivy · Grype · Syft |
-| Supply Chain Integrity | SLSA L2 · SBOM · GHCR digest pinning · Rekor |
-| Policy as Code | OPA · Kyverno PSS · NetworkPolicy |
-| Secret Management | Sealed Secrets · Vault |
-
-<h4>Pipelines, GitOps & Observability</h4>
-
-| Domain | Tools |
-|---|---|
-| CI/CD | GitHub Actions · ArgoCD · Kustomize · Helm |
-| Service Mesh | Istio · mTLS · Envoy · cert-manager |
-| Observability | Prometheus · Grafana · Loki · Jaeger · Promtail |
-| IaC & Provisioning | Terraform · kubeadm · Ansible · KIND |
 
 </div>
 
