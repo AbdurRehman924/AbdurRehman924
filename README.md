@@ -18,11 +18,11 @@
 
 <h4>Cloud & Infrastructure</h4>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,linux,bash" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,linux,bash,githubactions,go,nginx" />
 
 <h4>Backend & Frontend</h4>
 
-<img src="https://skillicons.dev/icons?i=django,python,postgres,redis,nuxt,react,svelte,tailwind" />
+<img src="https://skillicons.dev/icons?i=django,python,postgres,redis,nuxt,react,svelte,tailwind,graphql,firebase,strapi,celery,stripe,magento,unocss,cloudflare" />
 
 </div>
 
