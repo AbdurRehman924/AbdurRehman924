@@ -22,7 +22,7 @@
 
 <h4>Backend & Frontend</h4>
 
-<img src="https://skillicons.dev/icons?i=django,python,postgres,redis,nuxt,react,svelte,tailwind,graphql,firebase,cloudflare" />
+<img src="https://skillicons.dev/icons?i=django,python,postgres,redis,nuxt,react,svelte,tailwind,graphql,firebase,cloudflare,nodejs,javascript,typescript,express,mongodb,mysql&perline=9" />
 
 </div>
 
