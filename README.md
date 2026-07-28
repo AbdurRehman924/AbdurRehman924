@@ -1,10 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=artariq-dev.artariq-dev" />
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=32&weight=700&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Abdur+Rehman+Tariq;Cloud+Native+Full-Stack+Engineer;Infrastructure+meets+application.;Security+enforced+at+every+layer." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=32&weight=700&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Abdur+Rehman+Tariq;Full-Stack+Developer+%26+Cloud+Engineer;Infrastructure+meets+application.;Security+enforced+at+every+layer." />
 </h1>
 
-<h3 align="center">Cloud Native Full-Stack Engineer · Pakistan 🇵🇰 · Available for remote engagements worldwide</h3>
+<h3 align="center">Full-Stack Developer & Cloud Engineer · Pakistan 🇵🇰</h3>
 
 <br/>
 
@@ -16,39 +14,13 @@
 
 ### 🧰 Tools I use to break things (on purpose) and fix them (permanently)
 
-<h4>Cloud & Infrastructure</h4>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,linux,bash,githubactions,go,nginx" />
-
 <h4>Backend & Frontend</h4>
 
 <img src="https://skillicons.dev/icons?i=django,python,postgres,redis,nuxt,react,svelte,tailwind,graphql,firebase,cloudflare,nodejs,javascript,typescript,express,mongodb,mysql&perline=9" />
 
-</div>
+<h4>Cloud & Infrastructure</h4>
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### 🤔 Things I probably shouldn't admit but will anyway
-
-🏗️ I bootstrap Kubernetes clusters from raw compute — no managed control planes, no shortcuts
-
-🔐 I believe security is a day-one constraint, not a post-deployment checklist
-
-🌍 I've deployed the same platform architecture on three different clouds just to prove it's portable
-
-🩺 I built a clinical CRM with Django + PostGIS that reduced patient no-shows by 40% and CPA by 38%
-
-🤖 The solar PV CRM I built generates 5,000+ AI emails per month — and the team writes zero of them
-
-☀️ My idea of a good time is a clean terraform apply followed by a shipped fullstack feature
-
-🕵️ I once spent 3 hours debugging a Kubernetes issue that turned out to be a missing semicolon in a Kyverno policy
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,linux,bash,githubactions,go,nginx" />
 
 </div>
 
@@ -62,11 +34,14 @@
   <a href="mailto:artariq.dev.1@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/khan-abdurrehman-883653214/" target="_blank">
+  <a href="https://www.linkedin.com/in/artariq-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://artariq.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://artariq.dev/dev-artariq-resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-22c55e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
 
